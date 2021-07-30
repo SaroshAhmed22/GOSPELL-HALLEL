@@ -199,7 +199,7 @@
   }
 
   .world-wide-section{
-      background-image: url("../img/worldwide/banner.jpg");
+    background-image: url("../img/worldwide/banner.jpg")!important ;
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -390,4 +390,14 @@ p {
 
 .brand{
   background-color: rgb(14,30,51);
+}
+
+
+.world-wide-section{
+  background-image: url("../img/worldwide/banner.jpg");
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 501px;
+    
 }
