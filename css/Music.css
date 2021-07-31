@@ -1,11 +1,26 @@
+
 .b1{
-    border: 2px solid red;
+    border: 2px solid red !important;
+    
+}
+
+.fa-bars{
+  /* border: 2px solid red !important; */
+color: white !important;
+
+
+
 }
 .search{
     background-color: black;
     /* height: 100vh; */
 }
-
+/* ! top section start*/
+.top-section{
+  background-image: url('../img/Music/music1.jpg');
+  height: 100vh;
+}
+/* ! top section start*/
 /* Slick Slider Css */
 
 .slick-slider {
@@ -187,8 +202,8 @@
   }
   
 .circle {
-    width: 170px;
-    height:170px;
+    width: 100px;
+    height:100px;
     background:rgb(228, 130, 1);
     border-radius: 50%
   }
