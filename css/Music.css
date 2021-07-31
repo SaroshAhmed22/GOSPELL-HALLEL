@@ -18,7 +18,8 @@ color: white !important;
 /* ! top section start*/
 .top-section{
   background-image: url('../img/Music/music1.jpg');
-  height: 70vh;
+  height: 100vh;
+  
 }
 
 .nav1{
@@ -31,9 +32,16 @@ color: white !important;
 
 .centered-div{
   position: absolute;
-  top: 60%;
+  top: 65%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.nav-bt1{
+  font-weight: bold;
+  font-size: 9px;
+  border-radius: 10px;
+  background-color: red !important;
 }
 /* ! top section start*/
 /* Slick Slider Css */
