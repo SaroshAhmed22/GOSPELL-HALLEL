@@ -361,10 +361,19 @@
   opacity: 1;
 }
 
-
-.aut-content{
-  margin-left: 150px !important;
+.aut-contenta {
+  margin-left:215px;
 }
+.aut-contentc {
+  margin-left:330px;
+}
+
+.aut-contentb {
+  margin-left:330px;
+}
+.aut-content{
+  margin-left: 105px !important;
+  }
 
 .undercardbox {
   animation: move 4s linear 2s infinite alternate;
