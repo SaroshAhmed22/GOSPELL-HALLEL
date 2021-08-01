@@ -30,6 +30,7 @@
 
   <!-- Your custom styles (optional) -->
   <link rel="stylesheet" href="css/Music.css">
+  <link rel="stylesheet" href="css/MusicMedia.css">
 </head>
 
 <body>
@@ -149,14 +150,22 @@
   <div class="container-fluid music-section " style="border: 1px solid black !important;">
     <br>
     <div class="controls container mt-2 ">
-      <div class="option"><i class="fas  fa-chevron-left "></i></div>
+      <div class="option" style="display: flex;
+      justify-content: center;
+      align-items: center;"><i class="fas  fa-chevron-left text-dark"></i></div>
       <div class="volume"><i class="fas fa-random  text-white"></i></div>
       <div class="previous"><i class="fas fa-backward"></i></div>
-      <div class="play"><i class="fas fa-play"></i></div>
+      <div class="play " style="display: flex;
+      justify-content: center;
+      align-items: center;"><i class="fas fa-play"></i></div>
       <!-- <div class="pause"><i class="fas fa-pause"></i></div> -->
       <div class="next"><i class="fas fa-forward"></i></div>
       <div class="shuffle "><i class="fas  fa-volume-up text-white"></i></div>
-      <div class="add "><i class="fas fa-chevron-right"></i></div>
+      <div class="add " style="display: flex;
+      justify-content: center;
+      align-items: center;">
+        <i class="fas fa-chevron-right text-dark"></i>
+      </div>
     </div>
     <br><br>
 
@@ -623,6 +632,7 @@
   <!-- ! Brand start -->
   <div class="container-fluid brand ">
     <div class="container">
+
       <div class="row">
         <div class="col-md-6 col-12 ">
           <h2 class="text-white mt-5 font-weight-bold">Advertise your brand</h2>

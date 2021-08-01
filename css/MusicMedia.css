@@ -1,0 +1,26 @@
+/* for mobile screen */
+
+
+
+@media screen and (max-width: 600px) {
+    .navbar-collapse{
+        margin-left: 0px !important;
+    }
+
+    .nav1{
+        width:auto ; 
+        height: auto;
+        /* background-color: white; */
+        font-weight:500;
+        border-radius: 10px;
+        /* background-color: transparent; */
+        /* color: white !important; */
+  }
+
+  
+    .centered-div{
+        top: 55%;
+    
+    }
+   
+  }
