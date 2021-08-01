@@ -20,7 +20,74 @@
   
     .centered-div{
         top: 55%;
-    
     }
-   
+
+    .fa-chevron-left,.fa-chevron-right,.fa-backward,.fa-forward,.fa-plus,.fa-random,.fa-play ,.fa-volume-up {
+        font-size: 15px !important;
+        
+      }
+
+      .first-heading{
+          font-size: 25px;
+      }
+
+      .wwheading{
+          font-size: 20px;
+          /* margin-top: 10px; */
+      }
+
+      .fl{
+          font-size: 18px;
+      }
+
+      .circle {
+        width: 100px;
+        height:100px;
+    }
+    .circle-top{
+        margin-top: 20px;
+    }
+    
+
+    .card {
+        background-color: transparent;
+        height: 400px;
+        width: 180px !important;
+    }
+
+    
+.cardxa{
+    top: 50%;
+    left: 58%;
+    opacity: 0.9;
+    
+  
+  }
+
+  .v{
+      width: 250px;
+  }
+  .overlaya {
+    z-index: 10 !important;
+     margin-top: 20%;
+    margin-left: 5%;
+    background:rgb(16,23,38);
+    width: 200px;
+    height: 124px;
+    border: 10px solid white;
+    opacity: 1;
+  }
+  .aut-contenta {
+    margin-left:20px;
+  }
+  .aut-contentc {
+    margin-left:30px;
+  }
+  
+  .aut-contentb {
+    margin-left:30px;
+  }
+  .aut-content{
+    margin-left: 10px !important;
+    }
   }
