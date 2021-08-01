@@ -319,7 +319,12 @@ color: white !important;
   .featured-menu{
       background-color:rgb(38, 38,38);
       border-radius: 160px 0 0 160px;
+      /* width: 100%; */
+      /* border: 1px solid red; */
   }
+
+
+  
 
   .world-wide-section{
     background-image: url("../img/worldwide/banner.jpg")!important ;

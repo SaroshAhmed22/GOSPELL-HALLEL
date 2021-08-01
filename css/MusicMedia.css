@@ -41,8 +41,8 @@
       }
 
       .circle {
-        width: 100px;
-        height:100px;
+        width: 110px;
+        height:110px;
     }
     .circle-top{
         margin-top: 20px;
@@ -90,4 +90,9 @@
   .aut-content{
     margin-left: 10px !important;
     }
+    .footer-p{
+        text-align: center !important;
+    }
+
+  
   }
