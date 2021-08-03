@@ -17,8 +17,9 @@ color: white !important;
 }
 /* ! top section start*/
 .top-section{
-  background-image: url('../img/Music/music1.jpg');
+  background-image: url('../img/Music/music1.jpg') !important;
   height: 100vh;
+  
   
 }
 
@@ -324,8 +325,9 @@ font-size: 26px;
   }
 
   .featured-menu{
+    /* width: 100% !important; */
       background-color:rgb(38, 38,38);
-      border-radius: 160px 0 0 160px;
+      border-radius: 290px 0 0 290px;
       /* width: 100%; */
       /* border: 1px solid red; */
   }
